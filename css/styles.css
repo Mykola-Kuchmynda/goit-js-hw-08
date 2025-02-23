@@ -4,12 +4,13 @@
   align-items: center;
   align-content: center;
   justify-content: center;
-  width: auto;
+  max-width: 1440px;
   height: 696px;
   row-gap: 24px;
   column-gap: 24px;
   list-style: none;
   padding: 0;
+  margin: auto;
 }
 .gallery-item {
   width: 360px;
